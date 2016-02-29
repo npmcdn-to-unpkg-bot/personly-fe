@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="personly">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to Personly</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="css/all.css">
+
+
+</head>
+<body ng-class="{'bg-blue':bgBlue}">
+    <div ng-include="'../partials/header-footer/header.html'" ng-controller="headerFooterCtrl"></div>
+    <div ng-view class="main-view"></div>
+
+    <script src="js/vendor.js"></script>
+
+    <script src="js/bundle.js"></script>
+
+
+</body>
+</html>

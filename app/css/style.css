@@ -1,0 +1,243 @@
+/*
+    Primary Blue Color HEX #3D5AA8
+    Primary Blue Color RGBA rgba(61,90,168,1)
+    Primary Blue Hover Color HEX #234591
+    Primary Blue Hover Color RGBA rgba(35,69,145,1)
+    Secondary Purple Color HEX #9A48D0
+    Secondary Purple Color RGBA rgba(154,72,208,1)
+    Secondary Blue Color RGBA rgba(0,61,255,1)
+*/
+
+/********************************************
+    Bootstrap elements override starts
+********************************************/
+
+.tooltip-inner
+{
+    background: #999;
+}
+
+.tooltip.top .tooltip-arrow
+{
+    border-top-color: #999;
+}
+
+/********************************************
+    Bootstrap elements override ends
+********************************************/
+
+/********************************************
+       Toastr Elements Override starts
+********************************************/
+#toast-container > div, #toast-container > :hover
+{
+    -webkit-box-shadow: none!important;
+    -moz-box-shadow: none!important;
+    box-shadow: none!important;
+}
+
+
+
+/********************************************
+       Toastr Elements Override starts
+********************************************/
+
+
+
+/********************************************
+            Loading SVG Starts
+********************************************/
+
+#loading
+{
+    display: block;
+    position: absolute;
+    background: rgba(255,255,255,.8);
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+}
+
+#loading .content
+{
+    position: absolute;
+    width: 150px;
+    height: 130px;
+    margin: auto;
+    text-align: center;
+    top:0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 999;
+}
+
+#loading .content img
+{
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+
+/********************************************
+            Loading SVG Ends
+********************************************/
+
+body{
+    font-family: 'Lato', sans-serif;
+    background: #f6f6f6;
+    line-height: 1.6em;
+    color: #717171;
+}
+
+*
+{
+    outline:none!important;
+}
+
+p{
+    line-height: 1.5em;
+}
+
+.main-view .form-control
+{
+    height: auto;
+    min-height: 40px;
+    padding: 10px 12px;
+}
+
+#header
+{
+    background: rgba(255,255,255,.97);
+    border-bottom: none;
+}
+
+.nav.login-btns >li > a
+{
+    padding: 5px 10px;
+}
+
+.nav.login-btns >li > a.signup-header-btn,.signup-header-btn
+{
+    background: rgba(0,61,255,1);
+    color: #ffffff;
+    border:rgba(0,61,255,1) 1px solid;
+    margin-right: 10px;
+}
+
+.main-view
+{
+    margin-top: 50px;
+}
+
+.navbar-brand
+{
+    width: 130px;
+    padding: 5px 10px;
+}
+
+.navbar-toggle, .navbar-toggle:active
+{
+    padding: 5px 10px;
+    color: #3D5AA8;
+}
+
+.navbar-toggle:hover
+{
+    padding: 5px 10px;
+    background-color: #3D5AA8!important;
+    border-color: #3D5AA8;
+    color: #ffffff;
+}
+
+.home-intro-hero
+{
+    position: relative;
+    background: url("../images/hero-images/home-intro-multi-ethenic-bg.jpg") no-repeat center;
+    background-size:cover;
+    height: 500px;
+    padding: 0;
+}
+
+.hero-overlay-bg
+{
+    position: absolute;
+    background: rgba(0,61,255,.8);
+    width: 100%;
+    height: 100%;
+}
+
+.home-intro-hero h1
+{
+    font-size: 46px;
+    margin: 0;
+    padding-top: 20%;
+}
+
+.home-intro-hero p
+{
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: 300;
+    color: #ffffff;
+}
+.home-how-it-works
+{
+    color:#515151;
+    text-align: center;
+}
+
+.home-how-it-works h4
+{
+    margin-top: 25px;
+}
+
+/********************************************
+            Sign Up Page
+********************************************/
+.signup-page-bg
+{
+    display: block;
+    position: absolute;
+    width: 100%;
+    min-height: calc(100%);
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 1;
+    background: #0080ff;
+}
+
+.signup-form
+{
+    z-index: 2;
+}
+
+
+/********************************************
+                404 Page
+********************************************/
+#error-page
+{
+    display: block;
+    position: relative;
+    width: 100%;
+    background: #0080ff;
+    color: #ffffff;
+}
+
+
+.error-page-content-img img
+{
+    max-height: 250px;
+    margin: 0 auto;
+}
+
+.error-page-content h1
+{
+    font-size: 140px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
