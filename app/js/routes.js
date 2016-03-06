@@ -4,11 +4,8 @@
 pmApp.config(function($routeProvider, $locationProvider){
 
     $locationProvider.html5Mode({
-        enabled: true,
-        requireBase: false
+        enabled: true
     }).hashPrefix('!');
-
-
 
     var _getBlueBg = function(templateUrlPath) {
         return {
@@ -25,7 +22,6 @@ pmApp.config(function($routeProvider, $locationProvider){
         };
     };
 
-
     $routeProvider
         .when('/', {
             templateUrl:'/partials/landing.html', controller: 'landingCtrl'
@@ -41,6 +37,10 @@ pmApp.config(function($routeProvider, $locationProvider){
 
         .when('/profile', {
             templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
+        })
+
+        .when('/verify-email/:token', {
+            templateUrl:'/partials/misc/verify-email.html', controller: 'miscCtrl'
         })
 
         .when('/404', _getBlueBg('/partials/404.html'))

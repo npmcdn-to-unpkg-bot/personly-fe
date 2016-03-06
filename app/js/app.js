@@ -21,8 +21,6 @@ pmApp.config(['$httpProvider', function($httpProvider) {
 pmApp.run(['$rootScope', '$location', '$window','pmAuth','$http',
     function($rootScope, $location, $window, pmAuth,$http) {
 
-        $http.defaults.headers.common['x-access-token'] = pmAuth.getToken();
-
         $rootScope.$on('$routeChangeSuccess',
             function(event) {
                 $window.scrollTo(0, 0);
@@ -39,9 +37,6 @@ pmApp.run(['$rootScope', '$location', '$window','pmAuth','$http',
             angular.element('#navbar').removeClass('in');
         });
 
-
-
-
         // closing navbar collapse when content is loaded
         $rootScope.$on('$viewContentLoaded', function () {
             $(".nav a").click(function () {
@@ -50,8 +45,6 @@ pmApp.run(['$rootScope', '$location', '$window','pmAuth','$http',
                 }
             });
         });
-
-
     }
 ]);
 
@@ -68,8 +61,8 @@ pmApp.config(function(toastrConfig) {
     });
 });
 
-pmApp.factory('pmHttpInterceptor',['localStorageService', '$rootScope', '$location','toastr',
-    function(localStorageService, $rootScope, $location,toastr){
+pmApp.factory('pmHttpInterceptor',['localStorageService', '$rootScope', '$location','toastr','$q',
+    function(localStorageService, $rootScope, $location,toastr,$q){
 
         var interceptor = {};
 
@@ -84,17 +77,15 @@ pmApp.factory('pmHttpInterceptor',['localStorageService', '$rootScope', '$locati
         };
 
         interceptor.responseError = function (response) {
-            console.log(response);
-            if(response.status == 401){
+            if(response.status == 417){
                 localStorageService.clearAll();
                 $location.path('/login');
                 $rootScope.currentUser = {};
                 $rootScope.loggedIn = false;
                 toastr.error('uh-oh! Something went wrong.\nPlease log back in again.')
             }
-
-            return response;
-        }
+            return $q.reject(response);
+        };
 
         return interceptor;
 

@@ -11,18 +11,24 @@ pmApp.controller('loginCtrl',[ '$scope','$rootScope','$location','$http','toastr
     $rootScope.bgBlue = true;
 
     $rootScope.$on( "$routeChangeStart", function(event, next, current) {
-        //..do something  //if you don't want event to bubble up
         $rootScope.bgBlue = false;
     });
 
 
-    $scope.signupUser = function (data) {
+    $scope.signupUser = function(data) {
+        $scope.signupError = "";
         pmAuth.signupUser(data)
-            .then(function(success){
-                if(success){
+            .then(function(response){
+                console.log(response);
+                if(response.data.success){
                     toastr.success('Account successfully created.');
                 } else{
-                    toastr.error('Bummer... there is an error registering');
+                    if(response.data.errCode == 11000){
+                        $scope.signupError = 'User Already Exists.';
+                        toastr.error('User Already Exists.');
+                    }else{
+                        toastr.error('Bummer... there is an error registering');
+                    }
                 }
             });
     }

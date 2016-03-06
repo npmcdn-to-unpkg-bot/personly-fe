@@ -34,9 +34,9 @@ pmFac.factory('pmAuth',
                         localStorageService.set('token', response.data.token);
                         cachedToken = response.data.token;
                         $location.url('/profile');
-                        dfd.resolve(true);
+                        dfd.resolve(response);
                     } else{
-                        dfd.resolve(false);
+                        dfd.resolve(response);
                     }
                 });
             return dfd.promise;

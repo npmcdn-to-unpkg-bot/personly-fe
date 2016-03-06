@@ -1,0 +1,17 @@
+<div class="container ptop50">
+    <div class="row row-centered">
+        <div class="col-sm-6 col-centered">
+
+            <div id="loading" ng-show="!userVerified">
+                <div class="content mtopbot75">
+                    <img src="../images/loading/loading.svg" class="img-responsive" alt="">
+                    <p>Loading... Please wait</p>
+                </div>
+            </div>
+
+            <div class="alert" ng-class="{'alert-success':emailVerified,'alert-danger':errorVerifying}" ng-show="userVerified">
+                {{userVerified}}
+            </div>
+        </div>
+    </div>
+</div>

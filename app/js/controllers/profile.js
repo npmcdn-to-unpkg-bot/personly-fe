@@ -19,10 +19,9 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
     $scope.allDesigns = [];
 
     $scope.profileInit = function () {
-        $http.get(ENV.apiUrl + '/api/v1/my-designs')
+        $http.get(ENV.apiUrl + '/api/v1/me')
             .success(function(response){
                 console.log(response);
-                $scope.allDesigns = response.designs;
                 $scope.pageFullyLoaded=true;
             })
             .error(function(response){
@@ -38,7 +37,6 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
             $scope.designError = "All the fields are mandatory.";
             return;
         }
-
 
         var finalTags = [];
         if(finalTags.length === 0){
