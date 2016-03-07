@@ -11,7 +11,10 @@ var pmApp = angular.module('personly',[
     'personly.factories',
     'toastr',
     'ngFileUpload',
-    'ui.bootstrap'
+    'ui.bootstrap',
+    'validation',
+    'validation.rule',
+    'ngMask'
 ]);
 
 pmApp.config(['$httpProvider', function($httpProvider) {

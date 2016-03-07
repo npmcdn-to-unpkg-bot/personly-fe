@@ -1,7 +1,6 @@
 {
   "name": "personly",
   "description": "Introduce yourself to the world",
-  "main": "server.js",
   "authors": [
     "Designer Singh"
   ],
@@ -25,7 +24,9 @@
     "angular-local-storage": "^0.2.3",
     "ng-file-upload": "^12.0.1",
     "ng-file-upload-shim": "^12.0.1",
-    "angular-bootstrap": "^1.1.2"
+    "angular-bootstrap": "^1.1.2",
+    "angular-validation": "^1.4.*",
+    "ngMask": "angular-mask#^3.0.16"
   },
   "overrides": {
     "bootstrap": {
@@ -38,6 +39,12 @@
     "font-awesome": {
       "main": [
         "css/font-awesome.min.css"
+      ]
+    },
+    "angular-validation": {
+      "main": [
+        "dist/angular-validation.min.js",
+        "dist/angular-validation-rule.min.js"
       ]
     }
   }

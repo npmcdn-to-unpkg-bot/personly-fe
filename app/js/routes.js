@@ -39,6 +39,26 @@ pmApp.config(function($routeProvider, $locationProvider){
             templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
         })
 
+        .when('/profile/image', {
+            templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
+        })
+
+        .when('/profile/hobbies', {
+            templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
+        })
+
+        .when('/profile/interests', {
+            templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
+        })
+
+        .when('/profile/username', {
+            templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
+        })
+
+        .when('/profile/call-to-action', {
+            templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
+        })
+
         .when('/verify-email/:token', {
             templateUrl:'/partials/misc/verify-email.html', controller: 'miscCtrl'
         })

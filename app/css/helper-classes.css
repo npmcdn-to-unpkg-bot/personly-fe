@@ -34,6 +34,18 @@
 
 }
 
+.opacity-10{opacity: .1!important;}
+.opacity-25{opacity: .25!important;}
+.opacity-30{opacity: .3!important;}
+.opacity-40{opacity: .4!important;}
+.opacity-50{opacity: .5!important;}
+.opacity-75{opacity: .75!important;}
+.opacity-80{opacity: .8!important;}
+.opacity-90{opacity: .9!important;}
+.opacity-100{opacity: 1!important;}
+
+
+
 .vertical-middle
 {
     vertical-align: -webkit-baseline-middle!important;
@@ -81,6 +93,11 @@
 .lineHeight30{line-height: 30px!important;}
 .lineHeight40{line-height: 40px!important;}
 .lineHeight50{line-height: 50px!important;}
+.margin0 {margin: 0px !important;}
+.margin10 {margin: 10px !important;}
+.margin15 {margin: 15px !important;}
+.margin20 {margin: 20px !important;}
+.margin30 {margin: 30px !important;}
 .mtopbot0{margin-top: 0px !important; margin-bottom: 0px !important;}
 .mtopbot2{margin-top: 2px !important; margin-bottom: 2px !important;}
 .mtopbot5{margin-top: 5px !important; margin-bottom: 5px !important;}
@@ -197,6 +214,14 @@
 .pleft40 {padding-left: 40px !important;}
 .pleft50 {padding-left: 50px !important;}
 .pright0 {padding-right: 0px !important;}
+.pright5 {padding-right: 5px !important;}
+.pright10 {padding-right: 10px !important;}
+.pright15 {padding-right: 15px !important;}
+.pright20 {padding-right: 20px !important;}
+.pright25 {padding-right: 25px !important;}
+.pright30 {padding-right: 30px !important;}
+.pright40 {padding-right: 40px !important;}
+.pright50 {padding-right: 50px !important;}
 .ptop0 {padding-top: 0px !important;}
 .ptop2 {padding-top: 2px !important;}
 .ptop5 {padding-top: 5px !important;}
@@ -521,4 +546,63 @@
     -moz-border-radius: 5px;
     -o-border-radius: 5px;
     -ms-border-radius: 5px;
+}
+
+
+/********************************************
+                Text Styles
+********************************************/
+.text-thin
+{
+    font-weight: 100 !important;
+    box-shadow: none !important;
+}
+
+.text-normal
+{
+    font-weight: 300 !important;
+    box-shadow: none !important;
+}
+
+.text-bold
+{
+    font-weight: 500!important;
+    box-shadow: none !important;
+}
+
+.text-super-bold
+{
+    font-weight: 700!important;
+    box-shadow: none !important;
+}
+
+.text-tiny
+{
+    font-size: 8px !important;
+}
+.text-smaller
+{
+    font-size: 11px !important;
+}
+.text-medium-smaller
+{
+    font-size: 13px !important;
+}
+
+.text-small
+{
+    font-size: 16px !important;
+}
+
+.text-lg
+{
+    font-size: 18px !important;
+}
+.text-x-lg
+{
+    font-size: 22px !important;
+}
+.text-xx-lg
+{
+    font-size: 28px !important;
 }

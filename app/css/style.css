@@ -214,6 +214,46 @@ p{
     z-index: 2;
 }
 
+/********************************************
+            Profile Page
+********************************************/
+.profile-page .progress-bar{
+    background: #0080ff;
+}
+
+.hobbies-list, .interests-list
+{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.hobbies-list li, .interests-list li
+{
+    display: inline-block;
+    position: relative;
+    margin: 5px;
+}
+
+.hobbies-btn, .interests-btn
+{
+    border: 1px solid #0080ff;
+    word-break: break-all;
+    white-space: pre-wrap;
+}
+
+.hobbies-btn:hover, .interests-btn:hover
+{
+    background: #0080ff;
+    color: #ffffff;
+}
+
+.hobbies-btn-selected, .hobbies-btn-selected:hover, .interests-btn-selected, .interests-btn-selected:hover
+{
+    background: #f1f1f1;
+    color: #666666;
+}
+
 
 /********************************************
                 404 Page
@@ -240,3 +280,13 @@ p{
     margin-top: -10px;
     margin-bottom: 10px;
 }
+
+
+/********************************************
+            Angular Validation
+********************************************/
+
+.validation-invalid { color: red;}
+
+.ng-invalid.ng-dirty .form-control.ng-invalid { border-color:red }
+.validation-valid { display: none }
