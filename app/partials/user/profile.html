@@ -9,10 +9,10 @@
         </div>
     </div>
 
-    <div class="container mtop25 profile-page">
+    <div class="container mtop25 profile-page mbot50">
         <div class="row row-centered">
 
-            <div class="col-md-5 col-sm-6 col-xs-12 col-centered text-left" ng-show="imageUploadStep">
+            <div class="col-md-6 col-sm-8 col-xs-12 col-centered text-left" ng-show="imageUploadStep">
 
                 <h2 class="text-center text-blue">Let's get started!</h2>
                 <p class="text-center">Please complete the following steps to launch your personly profile.</p>
@@ -59,7 +59,7 @@
                                 </textarea>
                             </div>
 
-                            <div class="form-group">
+                            <div class="form-group pbot15">
                                 <button validation-submit="form" ng-click="submitImage(imageUpload)" class="btn btn-primary pull-right">Next</button>
                             </div>
 
@@ -70,7 +70,7 @@
             </div>
 
 
-            <div class="col-md-5 col-sm-6 col-xs-12 col-centered text-left" ng-show="hobbiesStep">
+            <div class="col-md-6 col-sm-8 col-xs-12 col-centered text-left" ng-show="hobbiesStep">
                 <h2 class="text-center text-blue">Tell us about your hobbies!</h2>
                 <p class="text-center">This information is vital for your personly profile.</p>
 
@@ -121,7 +121,7 @@
                 </div>
             </div>
 
-            <div class="col-md-5 col-sm-6 col-xs-12 col-centered text-left" ng-show="interestsStep">
+            <div class="col-md-6 col-sm-8 col-xs-12 col-centered text-left" ng-show="interestsStep">
                 <h2 class="text-center text-blue">Tell us about your interests!</h2>
                 <p class="text-center">This information is vital for your personly profile.</p>
 
@@ -173,7 +173,7 @@
             </div>
 
 
-            <div class="col-md-5 col-sm-6 col-xs-12 col-centered text-left" ng-show="usernameStep">
+            <div class="col-md-6 col-sm-8 col-xs-12 col-centered text-left" ng-show="usernameStep">
                 <h2 class="text-center text-blue">Choose your personal username!</h2>
                 <p class="text-center">This information is vital for your personly profile.</p>
 
@@ -206,10 +206,68 @@
                         </p>
 
                         <p class="text-regular text-lg text-center">
-                            https://www.personly.me/<span class="text-super-bold" ng-class="{'text-success':userAvailable,'text-danger':!userNotAvailable}">{{usernameShow || 'your-name'}}</span>
+                            personly.me/<span class="text-super-bold" ng-class="{'text-success':userAvailable,
+                            'text-success':!userAvailable && !userNotAvailable,'text-danger':userNotAvailable}">{{usernameShow || 'your-name'}}</span>
                         </p>
 
                     </form>
+
+                </div>
+            </div>
+
+
+            <div class="col-md-6 col-sm-8 col-xs-12 col-centered text-left" ng-show="socialStep">
+                <h2 class="text-center text-blue">Add your social networks!</h2>
+                <p class="text-center">Link all your social media to your personly profile.</p>
+
+                <div class="bg-white position-relative border-all border-light-gray rounded-corners overflow-hidden">
+                    <div id="loading" ng-show="saveUsernameLoading">
+                        <div class="content">
+                            <img src="../images/loading/loading.svg" class="img-responsive" alt="">
+                            <p>Loading... Please wait</p>
+                        </div>
+                    </div>
+                    <div class="progress mbot0" style="height:5px">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="{{onboardProgress}}"
+                             aria-valuemin="0" aria-valuemax="100" style="width:{{onboardProgress}}%">
+                        </div>
+                    </div>
+
+                    <div class="pad15 position-relative">
+                        <div class="input-group mbot15">
+                            <span class="input-group-addon facebook-bg" id="facebook-addon">
+                                <i class="fa fa-facebook-square fa-2x"></i>
+                            </span>
+                            <input type="text" class="form-control no-border-left" ng-model="username" placeholder="Enter your facebook username" describedby="facebook-addon">
+                        </div>
+
+                        <div class="input-group mbot15">
+                            <span class="input-group-addon linkedin-bg" id="linkedin-addon">
+                                <i class="fa fa-linkedin-square fa-2x"></i>
+                            </span>
+                            <input type="text" class="form-control no-border-left" ng-model="username" placeholder="Enter your linkedin username" describedby="linkedin-addon">
+                        </div>
+
+                        <div class="input-group mbot15">
+                            <span class="input-group-addon twitter-bg" id="twitter-addon">
+                                <i class="fa fa-twitter-square fa-2x"></i>
+                            </span>
+                            <input type="text" class="form-control no-border-left" ng-model="username" placeholder="Enter your twitter username" describedby="twitter-addon">
+                        </div>
+
+                        <div class="input-group mbot15">
+                            <span class="input-group-addon pinterest-bg" id="pinterest-addon">
+                                <i class="fa fa-pinterest-square fa-2x"></i>
+                            </span>
+                            <input type="text" class="form-control no-border-left" ng-model="username" placeholder="Enter your pinterest username" describedby="pinterest-addon">
+                        </div>
+
+                        <div class="text-center pbot15">
+                            <a ng-click="saveUsername()" class="btn btn-primary" ng-class="{'disabled':!userAvailable}">Get It</a>
+                        </div>
+
+
+                    </div>
 
                 </div>
             </div>

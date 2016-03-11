@@ -34,6 +34,18 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
                     $location.url('/profile/hobbies');
                 }
 
+                if(response.details && response.details.interests.length === 0){
+                    $location.url('/profile/interest');
+                }
+
+                if(response.details && !response.details.profileUrl){
+                    $location.url('/profile/profile-url');
+                }
+
+                if(response.details && response.details.social.length === 0){
+                    $location.url('/profile/social');
+                }
+
 
             })
             .error(function(response){
@@ -59,13 +71,19 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
 
     if($location.url() == '/profile/interests'){
         $scope.interestsStep = true;
+        $scope.onboardProgress = 50;
+        $scope.pageFullyLoaded = true;
+    }
+
+    if($location.url() == '/profile/profile-url'){
+        $scope.usernameStep = true;
         $scope.onboardProgress = 60;
         $scope.pageFullyLoaded = true;
     }
 
-    if($location.url() == '/profile/username'){
-        $scope.usernameStep = true;
-        $scope.onboardProgress = 80;
+    if($location.url() == '/profile/social'){
+        $scope.socialStep = true;
+        $scope.onboardProgress = 70;
         $scope.pageFullyLoaded = true;
     }
 
@@ -131,7 +149,6 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
     $scope.selectedHobbies = [];
 
     $scope.selectHobby = function (hobby, custom) {
-        console.log($scope.selectedHobbies.length);
         if($scope.selectedHobbies.length < 5){
             $scope.selectedHobbies.push(hobby);
             var idx = $scope.hobbies.indexOf(hobby);
@@ -157,8 +174,6 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
         
         var json = JSON.stringify($scope.selectedHobbies);
         
-        console.log(json);
-        
         $http.post(ENV.apiUrl + '/api/v1/profile/hobbies', json)
             .success(function(response){
                 console.log(response);
@@ -180,7 +195,6 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
     $scope.selectedInterests = [];
 
     $scope.selectInterest = function (interest, custom) {
-        console.log($scope.selectedInterests.length);
         if($scope.selectedInterests.length < 5){
             $scope.selectedInterests.push(interest);
             var idx = $scope.interests.indexOf(interest);
@@ -206,12 +220,10 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
 
         var json = JSON.stringify($scope.selectedInterests);
 
-        console.log(json);
-
         $http.post(ENV.apiUrl + '/api/v1/profile/interests', json)
             .success(function(response){
                 console.log(response);
-                $location.url('/profile/username');
+                $location.url('/profile/profile-url');
             })
             .error(function(response){
                 console.log(response);
@@ -228,17 +240,25 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
 
         $scope.usernameShow = str;
 
-        var json = {username : str};
+        if(!$scope.usernameShow){
+            $scope.userAvailable = false;
+            $scope.userNotAvailable =false;
+            return;
+        }
+
+        var json = {profileUrl : str};
 
         $http.post(ENV.apiUrl + '/api/v1/profile/check-username', json)
             .success(function(response){
                 console.log(response);
                 if(response.success){
                     $scope.userAvailable = true;
+                    $scope.userNotAvailable =false;
+
                 }else{
                     $scope.userNotAvailable =true;
+                    $scope.userAvailable = false;
                 }
-
             })
             .error(function(response){
                 console.log(response);
@@ -254,7 +274,7 @@ pmApp.controller('profileCtrl',[ '$scope', '$rootScope','$location','$http','pmA
         $http.post(ENV.apiUrl + '/api/v1/profile/save-username', json)
             .success(function(response){
                 console.log(response);
-                $location.url('/profile/call-to-action');
+                $location.url('/profile/social');
             })
             .error(function(response){
                 console.log(response);

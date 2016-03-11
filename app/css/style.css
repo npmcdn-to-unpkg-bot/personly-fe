@@ -290,3 +290,24 @@ p{
 
 .ng-invalid.ng-dirty .form-control.ng-invalid { border-color:red }
 .validation-valid { display: none }
+
+/********************************************
+            Social Icons
+********************************************/
+
+.facebook-color{color:#3B5998}
+.facebook-bg{background-color:#3B5998; border:#3B5998; color: #ffffff}
+.linkedin-color{color:#4875B4}
+.linkedin-bg{background-color:#4875B4; border:#4875B4; color: #ffffff}
+.dribbble-color{color:#ea4c89}
+.dribbble-bg{background-color:#ea4c89; border:#ea4c89; color: #ffffff}
+.twitter-color{color:#33CCFF}
+.twitter-bg{background-color:#33CCFF; border:#33CCFF; color: #ffffff}
+.instagram-color{color:#4E433C}
+.instagram-bg{background-color:#4E433C; border:#4E433C; color: #ffffff}
+.pinterest-color{color:#cb2027}
+.pinterest-bg{background-color:#cb2027; border:#cb2027; color: #ffffff}
+.github-color{color:#4183c4}
+.github-bg{background-color:#4183c4; border:#4183c4; color: #ffffff}
+.behance-color{color:#1769ff}
+.behance-bg{background-color:#1769ff; border:#1769ff; color: #ffffff}

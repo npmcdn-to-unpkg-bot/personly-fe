@@ -51,7 +51,11 @@ pmApp.config(function($routeProvider, $locationProvider){
             templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
         })
 
-        .when('/profile/username', {
+        .when('/profile/profile-url', {
+            templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
+        })
+
+        .when('/profile/social', {
             templateUrl:'/partials/user/profile.html', controller: 'profileCtrl'
         })
 

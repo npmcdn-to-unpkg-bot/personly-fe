@@ -200,6 +200,8 @@
 .mright40 {margin-right: 40px !important;}
 .mright50 {margin-right: 50px !important;}
 .pad0 {padding: 0px !important;}
+.pad2 {padding: 2px !important;}
+.pad3 {padding: 3px !important;}
 .pad10 {padding: 10px !important;}
 .pad15 {padding: 15px !important;}
 .pad20 {padding: 20px !important;}
@@ -488,6 +490,25 @@
 .border-all
 {
     border: 1px solid !important;
+}
+
+.no-border-left
+{
+    border-left: none !important;
+}
+
+.no-border-right
+{
+    border-right: none !important;
+}
+.no-border-top
+{
+    border-top: none !important;
+}
+
+.no-border-bottom
+{
+    border-bottom: none !important;
 }
 
 .no-border
