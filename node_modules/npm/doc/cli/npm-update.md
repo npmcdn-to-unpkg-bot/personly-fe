@@ -5,6 +5,8 @@ npm-update(1) -- Update a package
 
     npm update [-g] [<name> [<name> ...]]
 
+    aliases: up, upgrade
+
 ## DESCRIPTION
 
 This command will update all the packages listed to the latest version
@@ -45,7 +47,7 @@ on dependencies, `dep1` (`dep2`, .. etc.).  The published versions of `dep1` are
 ```
 {
   "dist-tags": { "latest": "1.2.2" },
-  "versions": {
+  "versions": [
     "1.2.2",
     "1.2.1",
     "1.2.0",
@@ -55,7 +57,7 @@ on dependencies, `dep1` (`dep2`, .. etc.).  The published versions of `dep1` are
     "0.4.1",
     "0.4.0",
     "0.2.0"
-  }
+  ]
 }
 ```
 

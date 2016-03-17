@@ -102,6 +102,8 @@ gulp.task('bundle:vendor', function(){
             'app/bower-components/angular/angular.js',
             'app/bower-components/angular-route/angular-route.js',
             'app/bower-components/angular-toastr/dist/angular-toastr.tpls.js',
+            'app/bower-components/angular-validation/dist/angular-validation.min.js',
+            'app/bower-components/angular-validation/dist/angular-validation-rule.min.js',
             'app/bower-components/angular-cookies/angular-cookies.js',
             'app/bower-components/angular-local-storage/dist/angular-local-storage.js',
             'app/bower-components/ng-file-upload/ng-file-upload.js',
