@@ -131,7 +131,6 @@ gulp.task('copy:css',function(){
         .pipe(urlAdjuster({
             replace:['bower_components/fontawesome/','/']
         }))
-        .pipe(autoprefixer())
         .pipe(csso())
         .pipe(gulp.dest('./dist/css'))
 
