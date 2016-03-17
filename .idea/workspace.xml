@@ -2,357 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8138f31-f466-446d-84a6-c9806d4a3a6d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/float.patch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_readable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_transform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_writable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/readable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/transform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/duplexer2/node_modules/readable-stream/writable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/indent-string/cli.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/.bin/node-gyp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/.bin/nopt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/.bin/opener" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/.bin/rimraf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/.bin/which" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/request/node_modules/.bin/har-validator" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/request/node_modules/.bin/uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-conv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-sign" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-verify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/.zuul.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/doc/stream.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/repeating/cli.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/camelcase-keys/index.js" afterPath="$PROJECT_DIR$/node_modules/camelcase-keys/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/camelcase-keys/package.json" afterPath="$PROJECT_DIR$/node_modules/camelcase-keys/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/camelcase-keys/readme.md" afterPath="$PROJECT_DIR$/node_modules/camelcase-keys/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/camelcase/index.js" afterPath="$PROJECT_DIR$/node_modules/camelcase/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/camelcase/package.json" afterPath="$PROJECT_DIR$/node_modules/camelcase/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/camelcase/readme.md" afterPath="$PROJECT_DIR$/node_modules/camelcase/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/csso/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/README.md" afterPath="$PROJECT_DIR$/node_modules/csso/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/dist/csso-browser.js" afterPath="$PROJECT_DIR$/node_modules/csso/dist/csso-browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/cli.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/cli.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/gonzalesToInternal.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/gonzalesToInternal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/internalToGonzales.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/internalToGonzales.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/translate.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/translate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/translateWithSourceMap.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/translateWithSourceMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/walk.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/ast/walk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/clean/index.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/clean/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/compress/Atrule.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/compress/Atrule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/compress/Value.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/compress/Value.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/index.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/restructure/4-restructShorthand.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/restructure/4-restructShorthand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/restructure/6-restructBlock.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/restructure/6-restructBlock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/restructure/prepare/index.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/restructure/prepare/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/compressor/restructure/utils.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/compressor/restructure/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/parser/const.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/parser/const.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/parser/index.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/parser/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/lib/parser/tokenize.js" afterPath="$PROJECT_DIR$/node_modules/csso/lib/parser/tokenize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csso/package.json" afterPath="$PROJECT_DIR$/node_modules/csso/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-csso/README.md" afterPath="$PROJECT_DIR$/node_modules/gulp-csso/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-csso/index.js" afterPath="$PROJECT_DIR$/node_modules/gulp-csso/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-csso/package.json" afterPath="$PROJECT_DIR$/node_modules/gulp-csso/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/indent-string/package.json" afterPath="$PROJECT_DIR$/node_modules/indent-string/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/indent-string/readme.md" afterPath="$PROJECT_DIR$/node_modules/indent-string/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash.isarguments/README.md" afterPath="$PROJECT_DIR$/node_modules/lodash.isarguments/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash.isarguments/index.js" afterPath="$PROJECT_DIR$/node_modules/lodash.isarguments/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash.isarguments/package.json" afterPath="$PROJECT_DIR$/node_modules/lodash.isarguments/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/meow/index.js" afterPath="$PROJECT_DIR$/node_modules/meow/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/meow/package.json" afterPath="$PROJECT_DIR$/node_modules/meow/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/meow/readme.md" afterPath="$PROJECT_DIR$/node_modules/meow/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/AUTHORS" afterPath="$PROJECT_DIR$/node_modules/npm/AUTHORS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/npm/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-adduser.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-adduser.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-bugs.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-bugs.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-config.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-config.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-dedupe.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-dedupe.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-dist-tag.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-dist-tag.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-owner.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-owner.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-search.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-search.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-test.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-test.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-update.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm-update.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/cli/npm.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/files/package.json.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/files/package.json.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/doc/misc/npm-config.md" afterPath="$PROJECT_DIR$/node_modules/npm/doc/misc/npm-config.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/README.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/README.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-bin.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-bin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-bugs.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-bugs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-cache.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-cache.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-commands.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-commands.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-config.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-config.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-deprecate.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-deprecate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-docs.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-docs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-edit.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-edit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-explore.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-explore.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-help-search.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-help-search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-init.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-init.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-install.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-install.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-link.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-link.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-load.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-load.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-ls.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-ls.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-outdated.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-outdated.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-owner.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-owner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-pack.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-pack.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-ping.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-ping.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-prefix.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-prefix.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-prune.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-prune.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-publish.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-publish.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-rebuild.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-rebuild.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-repo.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-repo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-restart.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-restart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-root.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-root.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-run-script.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-run-script.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-search.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-shrinkwrap.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-shrinkwrap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-start.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-start.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-stop.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-stop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-tag.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-tag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-test.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-uninstall.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-uninstall.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-unpublish.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-unpublish.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-update.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-update.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-version.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-version.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-view.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-view.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-whoami.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm-whoami.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/api/npm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-access.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-access.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-adduser.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-adduser.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bin.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bugs.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bugs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-build.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-build.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bundle.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bundle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-cache.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-cache.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-completion.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-completion.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-config.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-config.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-dedupe.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-dedupe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-deprecate.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-deprecate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-dist-tag.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-dist-tag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-docs.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-docs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-edit.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-edit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-explore.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-explore.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-help-search.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-help-search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-help.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-help.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-init.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-init.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install-test.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install-test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-link.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-link.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-logout.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-logout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ls.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ls.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-outdated.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-outdated.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-owner.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-owner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-pack.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-pack.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ping.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ping.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-prefix.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-prefix.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-prune.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-prune.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-publish.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-publish.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-rebuild.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-rebuild.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-repo.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-repo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-restart.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-restart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-rm.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-rm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-root.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-root.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-run-script.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-run-script.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-search.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-shrinkwrap.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-shrinkwrap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-star.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-star.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-stars.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-stars.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-start.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-start.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-stop.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-stop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-tag.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-tag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-team.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-test.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-uninstall.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-uninstall.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-unpublish.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-unpublish.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-update.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-update.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-version.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-version.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-view.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-view.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-whoami.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-whoami.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-folders.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-folders.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-global.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-global.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-json.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-json.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npmrc.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npmrc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/package.json.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/package.json.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/index.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-coding-style.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-coding-style.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-config.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-config.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-developers.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-developers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-disputes.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-disputes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-index.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-orgs.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-orgs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-registry.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-registry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-scope.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-scope.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-scripts.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-scripts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/removing-npm.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/removing-npm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/semver.html" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/semver.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/lib/cache/caching-client.js" afterPath="$PROJECT_DIR$/node_modules/npm/lib/cache/caching-client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/lib/config/defaults.js" afterPath="$PROJECT_DIR$/node_modules/npm/lib/config/defaults.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-README.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-README.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-access.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-access.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-adduser.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-adduser.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-bin.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-bin.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-bugs.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-bugs.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-build.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-build.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-bundle.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-bundle.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-cache.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-cache.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-completion.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-completion.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-config.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-config.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-dedupe.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-dedupe.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-deprecate.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-deprecate.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-dist-tag.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-dist-tag.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-docs.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-docs.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-edit.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-edit.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-explore.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-explore.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-help-search.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-help-search.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-help.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-help.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-init.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-init.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-install-test.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-install-test.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-install.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-install.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-link.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-link.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-logout.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-logout.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-ls.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-ls.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-outdated.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-outdated.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-owner.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-owner.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-pack.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-pack.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-ping.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-ping.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-prefix.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-prefix.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-prune.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-prune.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-publish.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-publish.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-rebuild.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-rebuild.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-repo.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-repo.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-restart.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-restart.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-rm.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-rm.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-root.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-root.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-run-script.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-run-script.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-search.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-search.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-shrinkwrap.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-shrinkwrap.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-star.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-star.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-stars.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-stars.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-start.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-start.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-stop.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-stop.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-tag.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-tag.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-team.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-team.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-test.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-test.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-uninstall.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-uninstall.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-unpublish.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-unpublish.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-update.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-update.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-version.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-version.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-view.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-view.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-whoami.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-whoami.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm.1" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-bin.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-bin.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-bugs.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-bugs.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-cache.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-cache.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-commands.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-commands.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-config.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-config.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-deprecate.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-deprecate.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-docs.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-docs.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-edit.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-edit.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-explore.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-explore.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-help-search.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-help-search.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-init.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-init.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-install.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-install.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-link.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-link.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-load.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-load.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-ls.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-ls.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-outdated.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-outdated.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-owner.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-owner.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-pack.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-pack.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-ping.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-ping.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-prefix.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-prefix.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-prune.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-prune.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-publish.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-publish.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-rebuild.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-rebuild.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-repo.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-repo.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-restart.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-restart.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-root.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-root.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-run-script.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-run-script.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-search.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-search.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-shrinkwrap.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-shrinkwrap.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-start.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-start.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-stop.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-stop.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-tag.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-tag.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-test.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-test.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-uninstall.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-uninstall.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-unpublish.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-unpublish.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-update.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-update.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-version.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-version.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-view.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-view.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-whoami.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm-whoami.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man3/npm.3" afterPath="$PROJECT_DIR$/node_modules/npm/man/man3/npm.3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man5/npm-folders.5" afterPath="$PROJECT_DIR$/node_modules/npm/man/man5/npm-folders.5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man5/npm-global.5" afterPath="$PROJECT_DIR$/node_modules/npm/man/man5/npm-global.5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man5/npm-json.5" afterPath="$PROJECT_DIR$/node_modules/npm/man/man5/npm-json.5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man5/npmrc.5" afterPath="$PROJECT_DIR$/node_modules/npm/man/man5/npmrc.5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man5/package.json.5" afterPath="$PROJECT_DIR$/node_modules/npm/man/man5/package.json.5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-coding-style.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-coding-style.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-config.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-config.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-developers.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-developers.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-disputes.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-disputes.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-index.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-index.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-orgs.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-orgs.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-registry.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-registry.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-scope.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-scope.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-scripts.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/npm-scripts.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/removing-npm.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/removing-npm.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/man/man7/semver.7" afterPath="$PROJECT_DIR$/node_modules/npm/man/man7/semver.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/README.md" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/common.js" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/glob.js" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/glob.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/sync.js" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/glob/sync.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/android.py" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/android.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/node_modules/glob/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/node_modules/path-array/node_modules/array-index/node_modules/debug/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/node_modules/path-array/node_modules/array-index/node_modules/debug/node_modules/ms/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/node_modules/path-array/node_modules/array-index/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/node_modules/path-array/node_modules/array-index/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/node_modules/path-array/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/node_modules/path-array/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/node-gyp/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/README.md" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/index.js" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/lib/initialize.js" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/lib/initialize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/doc/stream.markdown" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/doc/stream.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/lib/_stream_readable.js" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/lib/_stream_readable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/lib/_stream_writable.js" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/lib/_stream_writable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/process-nextick-args/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/process-nextick-args/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/string_decoder/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/string_decoder/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/typedarray/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/typedarray/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/test/initialize.js" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-registry-client/test/initialize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/strip-ansi/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/strip-ansi/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/strip-ansi/readme.md" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/strip-ansi/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/package.json" afterPath="$PROJECT_DIR$/node_modules/npm/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/npm/test/tap/peer-deps-invalid.js" afterPath="$PROJECT_DIR$/node_modules/npm/test/tap/peer-deps-invalid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/readable-stream/README.md" afterPath="$PROJECT_DIR$/node_modules/readable-stream/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/readable-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/readable-stream/readable.js" afterPath="$PROJECT_DIR$/node_modules/readable-stream/readable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/repeating/index.js" afterPath="$PROJECT_DIR$/node_modules/repeating/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/repeating/package.json" afterPath="$PROJECT_DIR$/node_modules/repeating/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/repeating/readme.md" afterPath="$PROJECT_DIR$/node_modules/repeating/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="personly-fe.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -411,8 +62,28 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="114" column="23" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="23" />
+            <state relative-caret-position="409">
+              <caret line="135" column="11" selection-start-line="135" selection-start-column="11" selection-end-line="135" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -566,7 +237,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -580,7 +251,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -601,14 +272,6 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="header-footer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -624,7 +287,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower-components" />
+              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -711,7 +374,7 @@
       <option name="presentableId" value="Default" />
       <updated>1456697205072</updated>
       <workItem from="1458231974589" duration="75000" />
-      <workItem from="1458247839705" duration="1376000" />
+      <workItem from="1458247839705" duration="2578000" />
     </task>
     <task id="LOCAL-00001" summary="updated front end with email verification.">
       <created>1457289471756</created>
@@ -748,11 +411,18 @@
       <option name="project" value="LOCAL" />
       <updated>1458214635152</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated node packages and gulpfile.">
+      <created>1458249267621</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1458249267621</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1451000" />
+    <option name="totallyTimeSpent" value="2653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1120" height="980" extended-state="0" />
@@ -765,7 +435,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37191013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37274775" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -795,21 +465,14 @@
     <MESSAGE value="added user-onboarding steps on profile page. Also added angular-validation and ng-mask dependencies for form-validation." />
     <MESSAGE value="updated user onboarding process after signup." />
     <MESSAGE value="added node server to serve front-end." />
-    <option name="LAST_COMMIT_MESSAGE" value="added node server to serve front-end." />
+    <MESSAGE value="updated node packages and gulpfile." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated node packages and gulpfile." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/js/controllers/profile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="204" column="42" selection-start-line="204" selection-start-column="42" selection-end-line="204" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/partials/landing.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1097,13 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/controllers/landing.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1212,10 +868,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="114" column="23" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="23" />
+        <state relative-caret-position="409">
+          <caret line="135" column="11" selection-start-line="135" selection-start-column="11" selection-end-line="135" selection-end-column="11" />
           <folding />
         </state>
       </provider>

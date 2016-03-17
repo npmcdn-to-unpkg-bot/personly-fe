@@ -108,7 +108,8 @@ gulp.task('bundle:vendor', function(){
             'app/bower-components/angular-local-storage/dist/angular-local-storage.js',
             'app/bower-components/ng-file-upload/ng-file-upload.js',
             'app/bower-components/ng-file-upload-shim/ng-file-upload-shim.js',
-            'app/bower-components/angular-bootstrap/ui-bootstrap-tpls.js'
+            'app/bower-components/angular-bootstrap/ui-bootstrap-tpls.js',
+            'app/bower-components/ngMask/dist/ngMask.min.js'
         ])
         .pipe(concat('vendor.js'))
         .pipe(ngAnnotate())
