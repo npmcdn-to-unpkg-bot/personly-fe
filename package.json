@@ -30,9 +30,5 @@
     "jshint": "^2.9.1",
     "npm": "^2.14.0",
     "wiredep": "^2.2.2"
-  },
-  "devDependencies": {
-    "gulp-bower-files": "^0.2.7",
-    "gulp-bower-mf": "^0.4.1"
   }
 }
