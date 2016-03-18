@@ -4420,15 +4420,12 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-base64/test/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-base64/test/large.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-base64/test/yoshinoya.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/.gittags.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/.travis.yml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/CHANGELOG.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/LICENSE" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/README.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/index.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/test/test.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jshint/CHANGELOG.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jshint/LICENSE" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jshint/README.md" afterPath="" />
@@ -10120,6 +10117,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/propprop/readme.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/.npmignore" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/Readme.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/package.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/test/parse.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/test/stringify.js" afterPath="" />
@@ -11819,15 +11817,10 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/mutable.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/package.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/.travis.yml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/README.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/index.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/package.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/test/locales/bad-locale.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/test/locales/en.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/test/locales/pirate.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/test/y18n-test.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/CHANGELOG.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/LICENSE" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/README.md" afterPath="" />
@@ -11846,9 +11839,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/locales/pt.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/locales/zh.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/package.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/personly-fe.iml" afterPath="$PROJECT_DIR$/.idea/personly-fe.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/qs/Readme.md" afterPath="$PROJECT_DIR$/node_modules/qs/Readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="personly-fe.iws" />
@@ -11889,7 +11881,6 @@
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <marker date="1457737291000" expanded="true" signature="12326:12467" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -11905,21 +11896,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="131" column="60" selection-start-line="131" selection-start-column="60" selection-end-line="131" selection-end-column="60" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="255">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -11928,7 +11919,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="990">
               <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
               <folding />
             </state>
@@ -11938,7 +11929,7 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/partials/header-footer/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
+            <state relative-caret-position="615">
               <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
               <folding />
             </state>
@@ -12053,7 +12044,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -12107,6 +12097,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -12189,6 +12180,7 @@
       <updated>1456697205072</updated>
       <workItem from="1458231974589" duration="75000" />
       <workItem from="1458247839705" duration="3711000" />
+      <workItem from="1458325199204" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="updated front end with email verification.">
       <created>1457289471756</created>
@@ -12243,22 +12235,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3786000" />
+    <option name="totallyTimeSpent" value="4263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1120" height="980" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30846223" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37274775" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37274775" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -12288,7 +12280,8 @@
     <MESSAGE value="added node server to serve front-end." />
     <MESSAGE value="updated node packages and gulpfile." />
     <MESSAGE value="updated gulpfile." />
-    <option name="LAST_COMMIT_MESSAGE" value="updated gulpfile." />
+    <MESSAGE value="updated gulpfile and node_modules." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated gulpfile and node_modules." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -12339,7 +12332,6 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <marker date="1457737291000" expanded="true" signature="12326:12467" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -12389,7 +12381,6 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <marker date="1457737291000" expanded="true" signature="12326:12467" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -12649,7 +12640,6 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <marker date="1457737291000" expanded="true" signature="12326:12467" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -12677,40 +12667,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/partials/header-footer/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
+        <state relative-caret-position="615">
           <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
+        <state relative-caret-position="990">
           <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="131" column="60" selection-start-line="131" selection-start-column="60" selection-end-line="131" selection-end-column="60" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
           <folding />
         </state>
       </provider>
