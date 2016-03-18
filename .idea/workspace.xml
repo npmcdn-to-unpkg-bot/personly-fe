@@ -8,7 +8,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/csso" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/dateformat" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/dev-ip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/express" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/foxy" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/gulp" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/har-validator" afterPath="" />
@@ -4420,7 +4419,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-base64/test/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-base64/test/large.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-base64/test/yoshinoya.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/.npmignore" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/CHANGELOG.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/LICENSE" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-string-escape/README.md" afterPath="" />
@@ -11820,7 +11818,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/README.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/index.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/y18n/test/locales/bad-locale.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/CHANGELOG.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/LICENSE" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/README.md" afterPath="" />
@@ -11839,9 +11836,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/locales/pt.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/locales/zh.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/yargs/package.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/personly-fe.iml" afterPath="$PROJECT_DIR$/.idea/personly-fe.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="personly-fe.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -11909,8 +11904,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="385">
+              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -11971,8 +11966,8 @@
         <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/app/partials/header-footer/header.html" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -12077,24 +12072,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="personly-fe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="personly-fe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -12180,7 +12157,7 @@
       <updated>1456697205072</updated>
       <workItem from="1458231974589" duration="75000" />
       <workItem from="1458247839705" duration="3711000" />
-      <workItem from="1458325199204" duration="477000" />
+      <workItem from="1458325199204" duration="2246000" />
     </task>
     <task id="LOCAL-00001" summary="updated front end with email verification.">
       <created>1457289471756</created>
@@ -12231,26 +12208,33 @@
       <option name="project" value="LOCAL" />
       <updated>1458250603486</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated gulpfile and node_modules.">
+      <created>1458325761283</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1458325761283</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4263000" />
+    <option name="totallyTimeSpent" value="6032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1120" height="980" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30846223" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37274775" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37274775" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -12692,8 +12676,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        <state relative-caret-position="385">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
           <folding />
         </state>
       </provider>
